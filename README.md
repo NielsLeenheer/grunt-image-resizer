@@ -75,7 +75,7 @@ The source file for the a particular set of outputs. For example, a large versio
 
 ### Files
 
-A set of output file that will be generated from the source file. 
+A set of output files that will be generated from the source file. 
 For each file the following settings can be defined:
 
 #### file.width
